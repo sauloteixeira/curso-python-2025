@@ -1,0 +1,7 @@
+# Ignorar arquivos do Microsoft PowerPoint
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.pot
+*.potx
