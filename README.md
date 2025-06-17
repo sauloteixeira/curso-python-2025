@@ -3,4 +3,5 @@
 2. Dia 02: IF - ELIF - ELSE
 3. Dia 03: WHILE - FOR
 4. Dia 04: Listas
-5. Dia 05: ...
+5. Dia 05: Dicionários e Tuplas
+6. Dia 06: ...
