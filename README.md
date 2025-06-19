@@ -4,4 +4,5 @@
 3. Dia 03: WHILE - FOR
 4. Dia 04: Listas
 5. Dia 05: Dicionários e Tuplas
-6. Dia 06: ...
+6. Dia 06: Funções
+7. Dia 07: ...
