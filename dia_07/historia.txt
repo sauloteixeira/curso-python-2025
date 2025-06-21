@@ -1,0 +1,20 @@
+Objetivo
+
+
+Fluxo
+	Criação do card
+	Campos
+		4. Dados bancários
+		6. Indicação da razão social e 
+		   CNPJ de cada empresa
+		7. Listagem à parte das empresas vinculadas ao grupo (razão social + CNPJ)
+		8. Data do vencimento da procuração ou substabelecimento
+
+	Arquivos
+		1. Procuração ou substabelecimento (mesmo campo)
+		2. Procuração interna 
+		3. Atos constitutivos (contrato social ou estatuto social com ata de eleição da diretoria)
+		5. Outras documentações (se possível, com um campo para indicar que documentação é: alteração de razão social, incorporação de empresa, etc.)
+
+	Movimentações
+
