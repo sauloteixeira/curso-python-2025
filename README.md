@@ -5,6 +5,6 @@
 4. Dia 04: Listas
 5. Dia 05: Dicionários e Tuplas
 6. Dia 06: Funções
-7. Dia 07: lidando com arquivos
-8. Dia 08: loteria da babilonia
-9. Dia 09: APIs ...
+7. Dia 07: lidando com arquivos / loteria da babilonia
+8. Dia 08: APIs
+9. 
