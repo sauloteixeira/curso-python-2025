@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nu",
+				"numero_usuario"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dia_08/01_cep.py",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ASUS-INTELIVIX/OneDrive/03 - MBA/99 - Cursos agregadores/curso-python-2025",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/03 - MBA/99 - Cursos agregadores/curso-python-2025/dia_08"
+	],
+	"file_history":
+	[
+		"/C/Users/ASUS-INTELIVIX/OneDrive/03 - MBA/babilonia.py",
+		"/C/Users/ASUS-INTELIVIX/anaconda3/Lib/site-packages/requests/help.py",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/535e16f1-76e6-404d-8a49-54668a0ef6f7_Retorno (4).zip.6f7/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/9eb9807b-bf3b-4887-aaa2-1177373dcbc1_Retorno.zip.bc1/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/581ce0ec-0927-40cc-86c3-ca27dbb1b1b2_Retorno (2).zip.1b2/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/67e2cf2b-0277-45a3-8e85-5b5574cda4f0_Retorno (4).zip.4f0/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/107b1647-d7d3-48f2-9fd7-47eb2eb5347e_Retorno (1).zip.47e/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/e95cd20e-86ba-4cee-b510-a67ca9d5c9e4_67706853000000_IS_Recursal.zip.9e4/67706853000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/8cec1018-5f31-4c93-ac1d-70f06de0e0cf_Retorno (01).zip.Retorno (01).zip/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/b9dba6fd-6e05-43a6-b636-79695a6e30d4_Retorno (00).zip.Retorno (00).zip/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/e3675cdb-7045-4db2-ac44-1fb54b151e00_67706853000000_IS_Recursal (7).zip.e00/67706853000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/dbd50048-39aa-4826-8077-204ef26093da_08411277000000_IS_Recursal (1).zip.3da/08411277000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/7f826de4-efdc-4ea9-b47d-9640d4d6a577_12442737000000_IS_Recursal (2).zip.577/12442737000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/4e220cd1-2e59-4d2e-aa50-52c0fba9d1fa_67706853000000_IS_Recursal.zip.1fa/67706853000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/4a33c90f-01c8-44a0-9387-213fcd68e4b9_67706853000000_IS_Recursal (7).zip.4b9/67706853000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/edcf2a00-3267-4945-972d-b40dd781917a_Retorno (3).zip.17a/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/da3b8558-7e6c-461b-baa7-e28f20a4e23b_Retorno.zip.23b/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/7296c0ea-e077-44c2-a4c8-f0742e716cd3_08793343000000_IS_Recursal (4).zip.cd3/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/3cc86b21-3c4d-467d-9657-501a5106808e_08793343000000_IS_Recursal (3).zip.08e/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/0c6cd962-d797-485f-bf52-76a0fe45bf27_08793343000000_IS_Recursal.zip.f27/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/c22fe4eb-6a4e-4f1b-b5d7-399ae25aadf3_08793343000000_IS_Recursal (4).zip.df3/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/c3eb6b28-1274-4407-8a5d-3e500eae4195_08793343000000_IS_Recursal (5).zip.195/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/a86e77f7-c9aa-4776-a173-ec78a87b8e83_08793343000000_IS_Recursal.zip.e83/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/acd306e7-a4e7-4ae2-9700-0bd7ff423e3a_08793343000000_IS_Recursal (5).zip.e3a/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/sbk/02 - rml/similaridade/recorte_sbk.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/even/02 - rml/similaridade/recorte_even_12122023.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/tel centro de contatos/02 - rml/similaridade/recorte_tel_centro_de_contatos_07122023.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-even_1750250368974644-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/tel centro de contatos/02 - rml/rml_tel_centro_de_contatos.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/96 - notas fiscais/2025/00 - descricao_servicos.txt",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/96 - notas fiscais/2025/0425 - 26079012251820357000157000000000002825057105758412.xml",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-astra_175007420810846-csv.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-astra_1750074217207631-csv_linhas_validas.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/ASTRA/00 - recursal/02 - rml/similaridade/recorte_astra.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/ASTRA/00 - recursal/02 - rml/rml_astra.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/CYRELA/00 - analise/00 - recursal - 06062025/02 - rml/similaridade/recorte_cyrela06062025.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/CYRELA/00 - analise/00 - recursal - 06062025/02 - rml/similaridade/1016-rml_cyrela_06062025_name_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/CYRELA/00 - analise/00 - recursal - 06062025/02 - rml/similaridade/1016-rml_cyrela_06062025_number_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/1016-rml_cyrela_06062025_name_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/IMC/00 - recursal/02 - rml/similaridade/1013-rml_imc_name_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/1012-rml_imc_name_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/736fc28b-7009-419a-8d33-4388f047640a_50949528000000_IS_Recursal.zip.40a/50949528000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/fae92ad0-3bfa-4507-ac74-0798e7027cbe_50949528000000_IS_Recursal.zip.cbe/50949528000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/968c2474-50ad-4e86-b2f8-2c0d3d895266_50949528000000_IS_Recursal (1).zip.266/50949528000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/Downloads/rml_cyrela_06062025.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/ASTRA/01 - judicial/04 - entrega/entrega aldrafy/cef/entrega_txt/entrega zerada.txt",
+		"/C/Users/ASUS-INTELIVIX/Downloads/CYRELA_BRAZIL_RELATORIO_DEPOSITOS_JUDICIAIS_20241101124810.csv",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/comandos_git.txt",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025_02/README.md",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/README.md",
+		"/C/Users/ASUS-INTELIVIX/Desktop/fork-curso-git-github-2025-tmw/README.md",
+		"/C/Users/ASUS-INTELIVIX/Desktop/fork-curso-git-github-2025-tmw/comandos_git.txt",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/SEB DO BRASIL/00 - recursal/03 - relatório de análise/apoio/ressalvas_seb_do_brasil.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-prestaserv_1749126011481996-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/SGS - 26082022/00 - recursal/03 - relatório de análise/ressalva_primeira_analise.txt",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/prestaserv/02 - rml/similaridade/recorte_prestaserv_07022023.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-glaxosmithkline_1749124258856222-csv_cnj_validos.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-glaxosmithkline_1749124258856222-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/prestaserv/02 - rml/similaridade/recorte_empresa_11052022.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/glaxosmithkline/02 - rml/similaridade/recorte_glaxosmithkline_30052022.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-glaxosmithkline_1749123701236467-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-glaxosmithkline_1749123701236467-csv_linhas_validas.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-viacao-sidon_1749123438075884-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-seb-do-brasil_1749123174096342-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/viacao sidon/02 - rml/similaridade/recorte_viacao_sidon.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-sgs_1749122596272404-csv_cnj_validos.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-sgs_1749122596272404-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/seb do brasil/02 - rml/similaridade/recorte_seb_do_brasil.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-sgs_1749122232773484-csv_linhas_validas.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/02 - rmls/rmls 2025/00 - projeto_reanalise/sgs/02 - rml/similaridade/recorte_sgs_26102022.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/IMC/00 - recursal/02 - rml/similaridade/recorte_imc.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/IMC/00 - recursal/02 - rml/similaridade/1013-rml_imc_number_elasticsearch.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/extracao_recursal_bevap_furos.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/extracao_recursal_unimed_maceio_furos.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/BEVAP/00 - recursal/02 - rml/similaridade/recorte_bevap.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-bevap_1748983816217939-csv_cnj_validos.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-bevap_1748983606768491-csv_cnj_validos.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-bevap_1748983606768491-csv_cnj_invalidos.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/BEVAP/00 - recursal/02 - rml/similaridade/recorte_bevap_2.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/BEVAP/00 - recursal/02 - rml/rml_bevap.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/UNIMED MACEIO/00 - recursal/02 - rml/similaridade/recorte_unimed_maceio.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/UNIMED MACEIO/00 - recursal/02 - rml/rml_unimed_maceio.csv",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/99416a19-bfae-42be-9f0e-f11fd0df28c4_Retorno (4).zip.8c4/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/IMC/00 - recursal/02 - rml/rml_imc.csv",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/c3a4914c-b66a-4a95-8b3a-9faaa6718380_Retorno (1).zip.380/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/8c9cdfc7-efe7-45b5-9c34-ccc6f1726e39_Retorno.zip.e39/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/0aa9ca97-8a95-4079-803e-8da36d21d9ab_Retorno (3).zip.9ab/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/e8f43a10-dd9d-4f15-bf06-4fb836ea72c9_12442737000000_IS_Recursal.zip.2c9/12442737000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/1572ea91-b377-443f-afa1-2ed590df6216_12442737000000_IS_Recursal (3).zip.216/12442737000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/b0cb96ab-2269-41bf-901a-55539ab4bdc5_12442737000000_IS_Recursal (2).zip.dc5/12442737000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/aff164d9-80f7-4598-85c6-e6cf738d3138_12442737000000_IS_Recursal (1).zip.138/12442737000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/cdc31ce9-20b9-43b8-91d5-1803d7545458_Retorno (2).zip.458/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/4c992976-cdf0-48c6-bc69-71ee045306aa_08793343000000_IS_Recursal.zip.6aa/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/1161cb6c-d2a0-49e6-ab0f-e8f6e2ba4d39_08793343000000_IS_Recursal (5).zip.d39/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/514e7829-92a0-4fb2-9346-1b771b406221_08793343000000_IS_Recursal (4).zip.221/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/68d0a494-e63d-447c-95b4-8606ff5d801e_08793343000000_IS_Recursal (3).zip.01e/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/bed32def-9b4c-4c1f-83ca-82639095f054_08793343000000_IS_Recursal (2).zip.054/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/cbaa002f-502e-4c6a-b24d-a6fa3aa8d4ee_08793343000000_IS_Recursal (1).zip.4ee/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/658b06a2-c84c-43cf-a5aa-2bd83a2a0b63_Retorno.zip.b63/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/fbdded5e-3fc8-46e5-b1a8-407d2cc01273_Retorno (4).zip.273/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/15657a60-d68c-4eee-a1d0-78fa2e9d60a9_Retorno (3).zip.0a9/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/5b704c98-f51b-4ef0-acab-256c6c5ef690_Retorno (3).zip.690/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/dfd599d8-c515-48ea-b265-dcbd7d8b4a15_Retorno (2).zip.a15/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/e76624b5-a88a-4266-9986-525f006b2b97_Retorno (1).zip.b97/Retorno.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/f38f55d4-a126-49ad-afd0-4bcbfcfba5f0_08793343000000_IS_Recursal (1).zip.5f0/08793343000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-santa-luzia_1748907068322908-csv_excecoes.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/SANTA LUZIA/00 - recursal/02 - rml/similaridade/recorte_santa_luzia.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/GRUPO_VIA1_RELATORIO_CONTAS_RECURSAIS_20240819172355.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/COCAL_CEREAIS_RELATORIO_DEPOSITOS_JUDICIAIS_20241101125544.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/JudicialCEF_Visate1.csv",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/comandos_bash.txt",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/arquivo_02.txt",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/comandos_secundarios.txt",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/fluxo_git.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/fa2343cd-4bd9-45d5-af01-edb93397aa88_33247743000000_IS_Recursal (10).zip.a88/33247743000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/AppData/Local/Temp/6c676d45-5459-41aa-ac30-cec89bcf90de_33247743000000_IS_Recursal (1).zip.0de/33247743000000_IS_Recursal.txt",
+		"/C/Users/ASUS-INTELIVIX/Downloads/Recursal_2021.pfx",
+		"/C/Users/ASUS-INTELIVIX/Downloads/CEF-SANTALUZIAEMP_20250425170326.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/METROPOLITANA - reanalise/00 - analise/METROPOLITANA/00 - recursal/99 - análises anteriores/2019/Metropolitana_RML/0000008419673000192vs_recursal.rml",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/METROPOLITANA - reanalise/00 - analise/METROPOLITANA/00 - recursal/99 - análises anteriores/2019/recortes/guanabara.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/METROPOLITANA - reanalise/00 - analise/METROPOLITANA/00 - recursal/03 - relatório de análise/extracao_recursal_metropolitana_rorr.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/METROPOLITANA - reanalise/00 - analise/METROPOLITANA/01 - judicial/03 - relatório de análise/antes do relatorio de Marcos/relatório somente metropolintana e caxanga/extracao_recursal_metropolitana_rorr.csv",
+		"/C/Users/ASUS-INTELIVIX/OneDrive/00 - RECURSAL/00 - Contratos/METROPOLITANA - reanalise/00 - analise/METROPOLITANA/01 - judicial/03 - relatório de análise/antes do relatorio de Marcos/extracao_recursal_metropolitana_rorr.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-metropolitana_1546024005677058-csv.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-metropolitana_1547235980572033-csv.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-metropolitana_15484273387482-csv.csv",
+		"/C/Users/ASUS-INTELIVIX/Downloads/csv_recursal-metropolitana_1554928257722432-csv.csv",
+		"/C/Users/ASUS-INTELIVIX/Desktop/curso_git_2025/.git/config"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dia_08/01_cep.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "teste.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
