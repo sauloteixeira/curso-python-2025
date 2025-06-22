@@ -5,3 +5,7 @@
 *.ppsx
 *.pot
 *.potx
+
+#ignorar arquivos csv e json
+*.csv
+*.json
