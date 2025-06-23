@@ -7,4 +7,4 @@
 6. Dia 06: Funções
 7. Dia 07: lidando com arquivos / loteria da babilonia
 8. Dia 08: APIs
-9. 
+9. Dia 09: conteúdo extra de listas
